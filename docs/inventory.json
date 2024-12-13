@@ -53,15 +53,36 @@
         "quantity": "22"
     }, {
         "type": "hardware",
-        "name": "KeyBoards",
+        "name": "Power thru Ethernet",
         "size": "Standard",
-        "quantity": "40"
+        "quantity": "10"
     },
     {
         "type": "hardware",
-        "name": "Computer Mice",
+        "name": "Wall mount 'arm' ",
+        "size": "Large",
+        "quantity": "3"
+    }],"accessories": [{
+        "type": "accessory",
+        "name": "Computer Keyboard",
         "size": "Standard",
-        "quantity": "55"
+        "quantity": "40"
+    }, {
+        "type": "accessory",
+        "name": "Computer Mouse",
+        "size": "Standard",
+        "quantity": "30"
+    },
+    {
+        "type": "accessory",
+        "name": "Axis Toolkit",
+        "size": "Standard",
+        "quantity": "22"
+    }, {
+        "type": "accessory",
+        "name": "Mounting Plate",
+        "size": "40 x 40",
+        "quantity": "10"
     }]
     
 }
