@@ -1,0 +1,67 @@
+{
+    "cables": [{
+        "type": "cables",
+        "name": "HDMI",
+        "size": "Mixed",
+        "quantity": "20"
+    }, {
+        "type": "cables",
+        "name": "DPI",
+        "size": "Mixed",
+        "quantity": "70"
+    }, {
+        "type": "cables",
+        "name": "DVI-D single link",
+        "size": "Mixed",
+        "quantity": "44"
+    }, {
+        "type": "cables",
+        "name": "Network Patch",
+        "size": "Short",
+        "quantity": "19"
+    }, {
+        "type": "cables",
+        "name": "DPI",
+        "size": "Mixed",
+        "quantity": "70"
+    }, {
+        "type": "cables",
+        "name": "DVI-D single link",
+        "size": "Mixed",
+        "quantity": "44"
+    }, {
+        "type": "cables",
+        "name": "Network Patch",
+        "size": "Short",
+        "quantity": "19"
+    }
+    ], "hardware": [{
+        "type": "hardware",
+        "name": "Dome camera Dome",
+        "size": "Small",
+        "quantity": "10"
+    }, {
+        "type": "hardware",
+        "name": "Wallspeaker",
+        "size": "Medium",
+        "quantity": "8"
+    },
+    {
+        "type": "hardware",
+        "name": "Showroom PC",
+        "size": "Small",
+        "quantity": "22"
+    }, {
+        "type": "hardware",
+        "name": "KeyBoards",
+        "size": "Standard",
+        "quantity": "40"
+    },
+    {
+        "type": "hardware",
+        "name": "Computer Mice",
+        "size": "Standard",
+        "quantity": "55"
+    }]
+    
+}
