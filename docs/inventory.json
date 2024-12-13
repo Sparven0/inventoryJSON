@@ -4,12 +4,7 @@
         "name": "HDMI",
         "size": "Mixed",
         "quantity": "20"
-    }, {
-        "type": "cables",
-        "name": "DPI",
-        "size": "Mixed",
-        "quantity": "70"
-    }, {
+    },  {
         "type": "cables",
         "name": "DVI-D single link",
         "size": "Mixed",
@@ -29,11 +24,6 @@
         "name": "DVI-D dual link",
         "size": "Mixed",
         "quantity": "44"
-    }, {
-        "type": "cables",
-        "name": "Network Patch",
-        "size": "Short",
-        "quantity": "19"
     }
     ], "hardware": [{
         "type": "hardware",
