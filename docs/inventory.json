@@ -3,27 +3,32 @@
         "type": "cables",
         "name": "HDMI",
         "size": "Mixed",
-        "quantity": "20"
+        "quantity": "20",
+        "location": "South Wall"
     },  {
         "type": "cables",
         "name": "DVI-D single link",
         "size": "Mixed",
-        "quantity": "44"
+        "quantity": "44",
+        "location": "South Wall"
     }, {
         "type": "cables",
         "name": "Network Patch",
         "size": "Short",
-        "quantity": "19"
+        "quantity": "19",
+        "location": "South Wall"
     }, {
         "type": "cables",
         "name": "DPI",
         "size": "Mixed",
-        "quantity": "70"
+        "quantity": "70",
+        "location": "South Wall"
     }, {
         "type": "cables",
         "name": "DVI-D dual link",
         "size": "Mixed",
-        "quantity": "44"
+        "quantity": "44",
+        "location": "South Wall"
     }
     ], "hardware": [{
         "type": "hardware",
