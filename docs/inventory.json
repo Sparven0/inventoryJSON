@@ -29,8 +29,30 @@
         "size": "Mixed",
         "quantity": "44",
         "location": "South Wall"
+    },
+    {
+        "type": "adapter",
+        "name": "HDMI to mini HDMI",
+        "size": "Small",
+        "quantity": "30",
+        "location": "South Wall"
+    },
+    {
+        "type": "adapter",
+        "name": "USB(male) to USB(male)",
+        "size": "Small",
+        "quantity": "4",
+        "location": "South Wall"
+    },
+    {
+        "type": "adapter",
+        "name": "HDMI to DPI",
+        "size": "Small",
+        "quantity": "20",
+        "location": "South Wall"
     }
-    ], "hardware": [{
+    ],
+     "hardware": [{
         "type": "hardware",
         "name": "Dome camera Dome",
         "size": "Small",
