@@ -56,29 +56,34 @@
         "type": "hardware",
         "name": "Dome camera Dome",
         "size": "Small",
-        "quantity": "10"
+        "quantity": "10",
+        "location": "West wall(boxed & loose)"
     }, {
         "type": "hardware",
         "name": "Wallspeaker",
         "size": "Medium",
-        "quantity": "8"
+        "quantity": "8",
+        "location": "West wall (loose)"
     },
     {
         "type": "hardware",
         "name": "Showroom PC",
         "size": "Small",
-        "quantity": "22"
+        "quantity": "22",
+        "location": "North wall (loose)"
     }, {
         "type": "hardware",
         "name": "Power thru Ethernet",
         "size": "Standard",
-        "quantity": "10"
+        "quantity": "10",
+        "location": "North wall (loose)"
     },
     {
         "type": "hardware",
         "name": "Wall mount 'arm' ",
         "size": "Large",
-        "quantity": "3"
+        "quantity": "3",
+        "location": "West wall (loose, floor)"
     }],"accessories": [{
         "type": "accessory",
         "name": "Computer Keyboard",
