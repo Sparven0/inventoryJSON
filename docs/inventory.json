@@ -153,12 +153,17 @@
         "type": "accessory",
         "name": "ELO controller",
         "size": "Standard",
-        "quantity": "5"
+        "quantity": "6"
     }, {
         "type": "accessory",
         "name": "Mounting Plate",
         "size": "40 x 40",
         "quantity": "10"
-    }]
+    }], 
+    
+    
+    
+    "end of life": [{
+        "domes": "No data"}]
     
 }
