@@ -3,31 +3,65 @@
         "type": "cables",
         "name": "HDMI",
         "size": "Mixed",
-        "quantity": "20",
+        "quantity": "51",
         "location": "South Wall"
     },  {
         "type": "cables",
         "name": "DVI-D single link",
         "size": "Mixed",
-        "quantity": "44",
+        "quantity": "6",
         "location": "South Wall"
     }, {
         "type": "cables",
         "name": "Network Patch",
         "size": "Short",
-        "quantity": "19",
+        "quantity": "72",
+        "location": "South Wall"
+    },
+    {
+        "type": "cables",
+        "name": "Network over 1m",
+        "size": "Medium",
+        "quantity": "72",
+        "location": "South Wall"
+    },
+    {
+        "type": "cables",
+        "name": "Network",
+        "size": "Long",
+        "quantity": "23",
         "location": "South Wall"
     }, {
         "type": "cables",
         "name": "DPI",
         "size": "Mixed",
-        "quantity": "70",
+        "quantity": "33",
         "location": "South Wall"
     }, {
         "type": "cables",
         "name": "DVI-D dual link",
         "size": "Mixed",
-        "quantity": "44",
+        "quantity": "8",
+        "location": "South Wall"
+    },
+    {
+        "type": "cables",
+        "name": "VGA",
+        "size": "Mixed",
+        "quantity": "14",
+        "location": "South Wall"
+    },
+    {
+        "type": "adapter",
+        "name": "AC UK & SE Spec",
+        "size": "Mixed",
+        "quantity": "20",
+        "location": "South Wall"
+    },{
+        "type": "adapter",
+        "name": "HDMI to Mini HDMI",
+        "size": "Short",
+        "quantity": "20",
         "location": "South Wall"
     },
     {
@@ -76,7 +110,21 @@
         "name": "Power thru Ethernet",
         "size": "Standard",
         "quantity": "10",
-        "location": "North wall (loose)"
+        "location": "West wall (loose)"
+    },
+    {
+        "type": "Multiple",
+        "name": "Aux",
+        "size": "Short",
+        "quantity": "21",
+        "location": "South Wall"
+    },
+    {
+        "type": "hardware",
+        "name": "Graphics Card ",
+        "size": "Medium",
+        "quantity": "2",
+        "location": "North Wall (boxed)"
     },
     {
         "type": "hardware",
@@ -100,6 +148,12 @@
         "name": "Axis Toolkit",
         "size": "Standard",
         "quantity": "22"
+    },
+    {
+        "type": "accessory",
+        "name": "ELO controller",
+        "size": "Standard",
+        "quantity": "5"
     }, {
         "type": "accessory",
         "name": "Mounting Plate",
