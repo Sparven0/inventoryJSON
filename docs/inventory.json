@@ -3,39 +3,39 @@
         "type": "cables",
         "name": "HDMI",
         "size": "Mixed",
-        "quantity": "51",
+        "quantity": "57",
         "location": "South Wall"
     },  {
         "type": "cables",
         "name": "DVI-D single link",
         "size": "Mixed",
-        "quantity": "6",
+        "quantity": "7",
         "location": "South Wall"
     }, {
         "type": "cables",
         "name": "Network Patch",
         "size": "Short",
-        "quantity": "72",
+        "quantity": "78",
         "location": "South Wall"
     },
     {
         "type": "cables",
         "name": "Network over 1m",
         "size": "Medium",
-        "quantity": "72",
+        "quantity": "103",
         "location": "South Wall"
     },
     {
         "type": "cables",
         "name": "Network",
         "size": "Long",
-        "quantity": "23",
+        "quantity": "36",
         "location": "South Wall"
     }, {
         "type": "cables",
         "name": "DPI",
         "size": "Mixed",
-        "quantity": "33",
+        "quantity": "40",
         "location": "South Wall"
     }, {
         "type": "cables",
@@ -48,27 +48,20 @@
         "type": "cables",
         "name": "VGA",
         "size": "Mixed",
-        "quantity": "14",
+        "quantity": "15",
         "location": "South Wall"
     },
     {
         "type": "adapter",
         "name": "AC UK & SE Spec",
         "size": "Mixed",
-        "quantity": "20",
+        "quantity": "22",
         "location": "South Wall"
     },{
         "type": "adapter",
         "name": "HDMI to Mini HDMI",
         "size": "Short",
         "quantity": "20",
-        "location": "South Wall"
-    },
-    {
-        "type": "adapter",
-        "name": "HDMI to mini HDMI",
-        "size": "Small",
-        "quantity": "30",
         "location": "South Wall"
     },
     {
@@ -82,7 +75,7 @@
         "type": "adapter",
         "name": "HDMI to DPI",
         "size": "Small",
-        "quantity": "20",
+        "quantity": "22",
         "location": "South Wall"
     }
     ],
