@@ -164,6 +164,49 @@
     
     
     "end of life": [{
-        "domes": "No data"}]
-    
+        "domes": "No data"}],
+        "cameras": [{
+"name": "Q1942-E",
+     "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_gray_background/public/2020-01/1600_q19_32e_41e_42e_60mm_wall_angle_left_1406_hi.png.jpg?itok=ZKyBW3OO",
+    "supported": "yes"   },
+     {
+        "name": "Companion Eye L",
+             "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2020-05/22571.png.webp?itok=WReGNSLp",
+             "supported": "no"},
+             {
+                "name": "M3037",
+                     "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2020-01/m30_27_37pve_ceiling_1505_hi.png.webp?itok=h-SNgtgr",
+                     "supported": "no"},
+                     {
+                        "name": "M3047-P",
+                             "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_gray_background/public/2023-03/m4327p_m4328p_ceiling_front_2212-Productimage.png.jpg?itok=P09JnvSl",
+                             "supported": "no"},
+                             {
+                                "name": "M3048",
+                                     "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_gray_background/public/2023-03/m4327p_m4328p_ceiling_front_2212-Productimage.png.jpg?itok=P09JnvSl",
+                                     "supported": "no"},
+                                     {
+                                        "name": "Companion Dome WV",
+                                             "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2020-05/22816.png.webp?itok=Zoz0w7Ap",
+                                             "supported": "no"},
+                                             {
+                                                "name": "Q1615 Mk 3",
+                                                     "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2020-06/1600_q16-15-mkiii-wall-front-right-2002.png.webp?itok=QdDH5pyE",
+                                                     "supported": "no"},
+                                                     {
+                                                        "name": "Q1645",
+                                                             "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2019-11/1600_q16-45-47-wall-front-1711.png.webp?itok=GJZkmKNJ",
+                                                             "supported": "no"},
+                                                             {
+                                                                "name": "Q1635",
+                                                                     "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2019-11/19477.png.webp?itok=-az35aan",
+                                                                     "supported": "no"},
+                                                                     {
+                                                                        "name": "Q1921",
+                                                                             "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2019-11/19511.png.webp?itok=YWr7lmqX",
+                                                                             "supported": "no"},
+                                                                             {
+                                                                                "name": "Q1659",
+                                                                                     "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2020-03/1600_q1659-50mm-angle-left-1611.png.webp?itok=ArFXvdb-",
+                                                                                     "supported": "no"}] 
 }
