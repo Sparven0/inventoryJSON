@@ -55,13 +55,7 @@
         "type": "adapter",
         "name": "AC UK & SE Spec",
         "size": "Mixed",
-        "quantity": "22",
-        "location": "South Wall"
-    },{
-        "type": "adapter",
-        "name": "HDMI to Mini HDMI",
-        "size": "Short",
-        "quantity": "20",
+        "quantity": "23",
         "location": "South Wall"
     },
     {
@@ -75,17 +69,11 @@
         "type": "adapter",
         "name": "HDMI to DPI",
         "size": "Small",
-        "quantity": "22",
+        "quantity": "28",
         "location": "South Wall"
     }
     ],
      "hardware": [{
-        "type": "hardware",
-        "name": "Dome camera Dome",
-        "size": "Small",
-        "quantity": "10",
-        "location": "West wall(boxed & loose)"
-    }, {
         "type": "hardware",
         "name": "Wallspeaker",
         "size": "Medium",
