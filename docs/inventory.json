@@ -144,12 +144,7 @@
     
     
     
-    "end of life": [{
-        "domes": "No data"}],
-        "cameras": [{
-"name": "Q1942-E",
-     "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_gray_background/public/2020-01/1600_q19_32e_41e_42e_60mm_wall_angle_left_1406_hi.png.jpg?itok=ZKyBW3OO",
-    "supported": "yes"   },
+        "cameras": [
      {
         "name": "Companion Eye L",
              "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2020-05/22571.png.webp?itok=WReGNSLp",
@@ -189,5 +184,41 @@
                                                                              {
                                                                                 "name": "Q1659",
                                                                                      "image":"https://www.axis.com/sites/axis/files/styles/square_500x500_/public/2020-03/1600_q1659-50mm-angle-left-1611.png.webp?itok=ArFXvdb-",
-                                                                                     "supported": "no"}] 
+                                                                                     "supported": "no"},
+                                                                                     {
+                                                                                    "name": "F44",
+                                                                                    "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/2019-11/19225.png.webp?itok=wfs5qVD1",
+                                                                                    "supported": "no"},
+                                                                                    {
+                                                                                        "name": "P1214",
+                                                                                        "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/2020-02/1600_p1214-main-unit-with-sensor-unit-1207-hi.png.webp?itok=Siujf2yV",
+                                                                                        "supported": "no"},
+                                                                                        {
+                                                                                            "name": "T8122",
+                                                                                            "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/t81b22-dc-30-w-midspan-1-port.png.webp?itok=sPOWx7Nb",
+                                                                                            "supported": "no"},
+                                                                                                        {
+                                                                                                            "name": "A1001",
+                                                                                                            "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/2023-03/a1001_screen_bg_1309_1600x1600.png.webp?itok=_xEZg2bS",
+                                                                                                            "supported": "no"},
+                                                                                                            {
+                                                                                                                "name": "A8004",
+                                                                                                                "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/2020-04/a8004_ve_full_front_1501_hi_1600x1600px.png.webp?itok=-AbUDRz6",
+                                                                                                                "supported": "no"},
+                                                                                                                {
+                                                                                                                    "name": "T8123",
+                                                                                                                    "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/axis-t8123-e-outdoor-midspan-30-w-1-port.png.webp?itok=Jn38DngG",
+                                                                                                                    "supported": "no"},
+                                                                                                                    {
+                                                                                                                        "name": "T8124",
+                                                                                                                        "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/t8124-high-poe-60-w-midspan-1-port.png.webp?itok=Vu-KriE1",
+                                                                                                                        "supported": "no"},
+                                                                                                                        {
+                                                                                                                            "name": "M7214",
+                                                                                                                            "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/2020-10/16923.png.webp?itok=0KQAAmCJ",
+                                                                                                                            "supported": "no"},
+                                                                                                                            {
+                                                                                                                                "name": "Q7411",
+                                                                                                                                "image":"https://www.axis.com/sites/axis/files/styles/square_1400x1400_/public/2020-04/q7411_front_1209_no_bkgr_hi1600px.png.webp?itok=S2wWviA2",
+                                                                                                                                "supported": "no"}] 
 }
